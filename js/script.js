@@ -1,4 +1,4 @@
-'use strict';
+
 
 const reviewsSwiper = document.querySelector('.swiper-reviews');
 if (reviewsSwiper) {
